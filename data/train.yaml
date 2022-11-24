@@ -1,0 +1,9 @@
+
+# data path
+train: ./data/train/images  
+val: ./data/valid/images 
+test: ./data/test/images 
+
+# classes to train 
+nc: 3
+names: [ 'WBC','RBC','Platelets' ]

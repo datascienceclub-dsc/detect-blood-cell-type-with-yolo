@@ -1,0 +1,7 @@
+
+# data path
+val: ./data/test/images  
+
+# classes for test
+nc: 3
+names: [ 'WBC','RBC','Platelets' ]
